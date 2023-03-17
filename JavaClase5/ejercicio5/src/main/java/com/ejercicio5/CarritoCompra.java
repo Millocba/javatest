@@ -16,7 +16,7 @@ public class CarritoCompra {
 
             while (scanner.hasNextLine()) {
                 String line = scanner.nextLine();
-                String[] data = line.split(";"); // separador de tabs
+                String[] data = line.split(";"); // separador de ;
 
                 int cantidad = Integer.parseInt(data[0]);
                 double precio = Double.parseDouble(data[1]);

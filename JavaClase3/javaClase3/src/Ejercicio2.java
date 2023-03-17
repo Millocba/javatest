@@ -24,6 +24,10 @@ public class Ejercicio2 {
         for(int i=0; i < frase.length(); i++) {
             letra = frase.charAt(i);
             int posicion = abecedario.indexOf(letra);
+            if (posicion == -1){
+                System.out.println("ingrese caracteres validos del abecedario...");
+                System.exit(1);
+            }
             if((posicion+movimiento) > (abecedario.length()-1)) {
                 posicion = (posicion + movimiento) - abecedario.length();
                 nuevaCadena = nuevaCadena + abecedario.charAt(posicion);

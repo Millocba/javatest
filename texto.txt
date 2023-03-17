@@ -1,4 +1,0 @@
-primera parte del archivo
-editado en git hub
-tercer linea con git hub
-cuarta linea en local
