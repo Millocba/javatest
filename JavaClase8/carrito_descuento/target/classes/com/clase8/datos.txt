@@ -1,0 +1,13 @@
+5;40;jabón en polvo;50
+10;10;Esponjas;90%
+2;0;chocolates;15
+3;25;Camisetas;20%
+8;12;Libretas;5
+15;5;Lápices;10%
+2;50;Zapatos;25
+6;18;Calcetines;15%
+4;30;Gafas de sol;50
+10;8;Bolígrafos;25%
+1;200;Reloj;30
+7;40;Camisetas deportivas;10%
+12;6;Paquetes de papel;20
