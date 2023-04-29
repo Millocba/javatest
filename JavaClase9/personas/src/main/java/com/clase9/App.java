@@ -3,18 +3,9 @@ package com.clase9;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-/**
- * Hello world!
- */
 public final class App {
     private App() {
     }
-
-    /**
-     * Says hello to the world.
-     * @param args The arguments of the program.
-     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Persona> personas = new ArrayList<>();
